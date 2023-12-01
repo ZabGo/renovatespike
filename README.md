@@ -1,4 +1,4 @@
-# Sample Multi-Module Android Project
+# Sample Multi-Module Android Project for everybody
 
 This project is designed to showcase a variety of concepts and techniques used in modern Android
 development. By exploring this sample, you can learn about:
