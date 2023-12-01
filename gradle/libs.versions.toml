@@ -14,7 +14,7 @@ androidxTestRunner = "1.5.2"
 compose = "1.2.1"
 composeWear = "1.0.0"
 coroutines = "1.6.4"
-hilt = "2.45"
+hilt = "2.48.1"
 junit = "4.13.2"
 kotlin = "1.8.10"
 
