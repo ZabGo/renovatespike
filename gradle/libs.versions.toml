@@ -37,7 +37,7 @@ androidx-test-runner = { module = "androidx.test:runner", version.ref = "android
 androidx-wear-compose-foundation = { group = "androidx.wear.compose", name = "compose-foundation", version.ref = "composeWear" }
 androidx-wear-compose-material = { group = "androidx.wear.compose", name = "compose-material", version.ref = "composeWear" }
 androidx-wear-compose-navigation = { group = "androidx.wear.compose", name = "compose-navigation", version = "1.0.0"}
-google-play-feature-delivery = {module = "com.google.android.play:feature-delivery", version = "2.0.1" }
+google-play-feature-delivery = {module = "com.google.android.play:feature-delivery", version = "2.1.0" }
 hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
 hilt-android-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hilt" }
 hilt-android-testing = { module = "com.google.dagger:hilt-android-testing", version.ref = "hilt" }
