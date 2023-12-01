@@ -1,18 +1,18 @@
 [versions]
 androidGradlePlugin = "7.4.2"
-androidxActivity = "1.6.1"
-androidxComposeBom = "2023.03.00"
+androidxActivity = "1.8.1"
+androidxComposeBom = "2023.10.01"
 androidxComposeCompiler = "1.4.3"
-androidxCore = "1.9.0"
-androidxHilt = "1.0.0"
-androidxLifecycle = "2.6.0"
-androidxNavigation = "2.5.3"
+androidxCore = "1.12.0"
+androidxHilt = "1.1.0"
+androidxLifecycle = "2.6.2"
+androidxNavigation = "2.7.5"
 androidxRoom = "2.5.0"
 androidxTestCore = "1.5.0"
 androidxTestExt = "1.1.5"
 androidxTestRunner = "1.5.2"
 compose = "1.2.1"
-composeWear = "1.0.0"
+composeWear = "1.2.1"
 coroutines = "1.6.4"
 hilt = "2.45"
 junit = "4.13.2"
@@ -36,7 +36,7 @@ androidx-test-ext-junit = { module = "androidx.test.ext:junit", version.ref = "a
 androidx-test-runner = { module = "androidx.test:runner", version.ref = "androidxTestRunner" }
 androidx-wear-compose-foundation = { group = "androidx.wear.compose", name = "compose-foundation", version.ref = "composeWear" }
 androidx-wear-compose-material = { group = "androidx.wear.compose", name = "compose-material", version.ref = "composeWear" }
-androidx-wear-compose-navigation = { group = "androidx.wear.compose", name = "compose-navigation", version = "1.0.0"}
+androidx-wear-compose-navigation = { group = "androidx.wear.compose", name = "compose-navigation", version = "1.2.1"}
 google-play-feature-delivery = {module = "com.google.android.play:feature-delivery", version = "2.0.1" }
 hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
 hilt-android-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hilt" }
